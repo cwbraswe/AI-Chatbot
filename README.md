@@ -1,4 +1,5 @@
 Generic AI Chatbot
+
 This is a chatbot application that utilizes OpenAI integration to provide a general knowledge chatbot capable of answering a wide range of questions. The chatbot is designed to leverage the power of OpenAI's language model to generate responses that are contextually relevant and informative.
 ![ai-chatbot](https://github.com/cwbraswe/AI-Chatbot/assets/31020426/9dfabaee-dbf4-4c20-9837-19f00e284d62)
 
