@@ -18,14 +18,14 @@ Copy code
 pip install -r requirements.txt
 Obtain an API key from OpenAI. Visit the OpenAI website (https://openai.com) and sign up for an account if you don't already have one. Once you have an account, you can generate an API key from the dashboard.
 
-Open the env.js file and replace YOUR_API_KEY with your actual OpenAI API key.
+Open the env.js file and within the quotations in OPENAI_API_KEY: "" paste your actual OpenAI API key.
 
 Save the env.js file and close it.
 
 Start the chatbot application by running the following command:
 
-Copy code
 npm start
+
 The chatbot will now be running and ready to answer your questions. Enter your questions or prompts in the console, and the chatbot will respond accordingly.
 
 Usage
